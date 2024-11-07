@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Patika BackEnd Week5 IMDB List/1.0.0": {
+        "runtime": {
+          "Patika BackEnd Week5 IMDB List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patika BackEnd Week5 IMDB List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
